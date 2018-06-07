@@ -18,4 +18,7 @@ public class App
         return message;
     }
 
+    private final String sayHello(){
+        return "hello docker!"
+    }
 }
